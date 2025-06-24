@@ -72,6 +72,8 @@ npm start
 4️⃣ **Visit on browser**
 http://localhost:5000
 
+---
+
 ## 🚧 Features In Development
 
 - 📱 **Gesture Triggers (Double Press Key)**
