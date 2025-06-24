@@ -73,6 +73,7 @@ npm start
 ```
 
 4️⃣ **Visit on browser**
+```bash
 http://localhost:5000
 ```
 
