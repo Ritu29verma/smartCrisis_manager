@@ -78,7 +78,7 @@ http://localhost:5000
 ```
 
 ---
-```bash
+
 ## 🚧 Features In Development
 
 - 📱 **Gesture Triggers (Double Press Key)**
@@ -86,7 +86,7 @@ http://localhost:5000
 - 🏥 **Appointment Booking System**
 - 📡 **Real-time Emergency Response Coordination**
 - 🧠 **AI-powered Intent Recognition**
-```
+
 ---
 
 ## 👥 Developed By
