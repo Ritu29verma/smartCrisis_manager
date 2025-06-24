@@ -60,3 +60,35 @@ All while under **extreme stress**.
 ```bash
 git clone https://github.com/khyatig0206/smartCrisis_manager.git
 cd smartCrisis_manager
+
+2️⃣**Install dependencies**
+```bash
+npm install
+
+3️⃣ **Run locally**
+```bash
+npm start
+
+4️⃣ **Visit on browser**
+http://localhost:5000
+
+## 🚧 Features In Development
+
+- 📱 **Gesture Triggers (Double Press Key)**
+- 🗣️ **Voice Command Activation**
+- 🏥 **Appointment Booking System**
+- 📡 **Real-time Emergency Response Coordination**
+- 🧠 **AI-powered Intent Recognition**
+
+---
+
+## 👥 Developed By
+
+| Name                      | LinkedIn                                                                                  | GitHub                                  |
+|---------------------------|------------------------------------------------------------------------------------------|-----------------------------------------|
+| **Deependra Kumar** *(Team Leader)* | [LinkedIn](https://www.linkedin.com/in/deependra-kumar-784170256/)                         | [GitHub](https://github.com/Deep-1507)  |
+| **Ansh Kumar**            | [LinkedIn](https://www.linkedin.com/in/ansh-8052-)                                        | [GitHub](https://github.com/Ansh8052)   |
+| **Ritu Verma**            | [LinkedIn](https://www.linkedin.com/in/ritu-verma-98a3aa25a/)                             | [GitHub](https://github.com/Ritu29verma)|
+| **Khyati Gupta**          | [LinkedIn](https://www.linkedin.com/in/khyati-gupta-9748bb254/)                           | [GitHub](https://github.com/khyatig0206)|
+
+---
